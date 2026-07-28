@@ -9,4 +9,11 @@ class AppColors {
   static const cream = Color(0xFFF6F1E4);
   static const ink = Color(0xFF1D231F);
   static const muted = Color(0xFF7C8A83);
+
+  // ডার্ক মোডের রঙ
+  static const darkBg = Color(0xFF0B1210);
+  static const darkCard = Color(0xFF15201D);
+  static const darkBorder = Color(0xFF263832);
+  static const darkInk = Color(0xFFEDEFEC);
+  static const darkMuted = Color(0xFF93A39B);
 }
